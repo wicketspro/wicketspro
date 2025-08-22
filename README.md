@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer passionate about open source.
+I'm a cricket lover and developer passionate about open source.
 
 - 🔭 I’m currently working on...
 - 🌱 I’m learning...
