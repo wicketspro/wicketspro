@@ -7,8 +7,8 @@ I'm a cricket lover and developer passionate about open source.
 - 💬 Ask me about cricket and Javascript.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicketspro)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicketspro&layout=compact&hide=css,html&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicketspro&hide=python,java,css,...)
+
+
 
 
